@@ -86,5 +86,3 @@ Desenvolvedor em formação com foco em **interfaces modernas e funcionais** par
   />
 </p>
 
----
-
