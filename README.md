@@ -54,7 +54,7 @@ Desenvolvedor em formação com foco em Front-end e aplicações para o TOTVS Fl
 <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Fluig" title="TOTVS Fluig" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Fluig" title="TOTVS Fluig" width="30px" src="https://seeklogo.com/images/F/fluig-logo-1A4B137D5C-seeklogo.com.pn" />
 <img align="left" alt="Eclipse" title="Eclipse" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 
 <br/><br/>
