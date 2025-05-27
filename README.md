@@ -37,14 +37,11 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim: 
 
-## 👋 Olá! Eu sou o Matheus Aurélio
-
-### 👨‍💻 Desenvolvedor Front-end / Fluig
+***Desenvolvedor Front-end / Fluig***
 
 Desenvolvedor em formação com foco em **interfaces modernas e funcionais** para web e **aplicações corporativas no TOTVS Fluig**.  
-Gosto de criar soluções práticas que facilitem o dia a dia dos usuários e estou sempre estudando novas tecnologias para evoluir na minha carreira.
 
 🚀 Atualmente desenvolvendo projetos com **HTML, CSS, JavaScript** e o ecossistema **TOTVS Fluig**, incluindo formulários, widgets e customizações com datasets.
 
