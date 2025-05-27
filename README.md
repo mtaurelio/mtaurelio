@@ -22,6 +22,14 @@
     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=" 
   />
 </a>
+<a href="https://www.linkedin.com/in/matheus-aur%C3%A9lio-silva-339697192/" target="_blank">
+  <img 
+    alt="LinkedIn" 
+    title="Conecte-se comigo no LinkedIn" 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=" 
+  />
+</a>
+
 
 </p>
 
