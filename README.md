@@ -49,7 +49,7 @@ Desenvolvedor em formação com foco em **interfaces modernas e funcionais** par
 
 
 🚀 Transição de carreira da área de Supply Chain para Desenvolvimento Web  
-📘 Estudando JavaScript, HTML, CSS e criação de formulários no Fluig  
+📘 Estudando JavaScript, HTML, CSS e criação de formulários no **Fluig**  
 🧠 Aprendizado constante com cursos, desafios e projetos práticos  
 📂 Confira meus projetos no GitHub: [github.com/mtaurelio](https://github.com/mtaurelio)
 
