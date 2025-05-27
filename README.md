@@ -61,12 +61,7 @@ Desenvolvedor em formação com foco em **interfaces modernas e funcionais** par
 <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<span 
-  title="Fluig" 
-  style="display: inline-block; height: 30px; width: 30px; text-align: center; line-height: 30px; font-size: 22px; padding-right: 10px;">
-  🔥
-</span>
- 
+<img align="left" alt="Fluig" title="Fluig" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" />
 <img align="left" alt="Eclipse" title="Eclipse" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 
 <br/><br/>
