@@ -88,10 +88,3 @@ Desenvolvedor em formação com foco em **interfaces modernas e funcionais** par
 
 ---
 
-### 🌐 Onde me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/mtaurelio/)
-- [GitHub](https://github.com/mtaurelio)
-
----
-
